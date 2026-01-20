@@ -1,0 +1,13 @@
+1.- node -v
+2.- npm create vite@latest my-first-react -- --template react
+3.- cd my-first-react
+4.- npm install
+5.- npm run dev
+
+.main-container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  padding: 40px;
+  background-color: #f0f4f8;
+  min-height: 100vh; /* Para que ocupe toda la pantalla */
+}
